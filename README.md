@@ -1,6 +1,6 @@
 # portfolio
 
-#Data Scientist
+# Data Scientist
 # Education
 Masters in Business Analytics, Syracuse University
 
@@ -10,7 +10,7 @@ Masters in Business Analytics, Syracuse University
  - big impact project 2!
  - big impact project 3!
 
-##Projects
+## Projects
 Banking and Finance
 Healthcare and insurance
 stock prediction using text minning
